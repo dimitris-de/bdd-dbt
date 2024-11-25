@@ -1,0 +1,14 @@
+name: 'bdd_dbt'
+version: '1.0'
+config-version: 2
+
+profile: 'bdd_dbt'
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  london_train_prices:
+    materialized: table

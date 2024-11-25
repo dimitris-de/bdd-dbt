@@ -1,0 +1,22 @@
+station_from,station_to,price,date,time,train_operator,journey_duration
+London Bridge,Waterloo,5.50,2024-01-01,08:15,Southern,15
+London Bridge,Victoria,6.00,2024-01-01,09:45,Southern,18
+Waterloo,Victoria,4.75,2024-01-02,10:30,South Western Railway,12
+London Bridge,Paddington,8.00,2024-01-02,11:20,Great Western Railway,20
+Waterloo,Paddington,7.25,2024-01-03,12:15,Great Western Railway,25
+Victoria,Euston,4.50,2024-01-03,13:30,London Overground,10
+Euston,Kings Cross,3.50,2024-01-04,14:45,London Overground,7
+Kings Cross,Liverpool Street,4.75,2024-01-04,15:00,Greater Anglia,10
+Liverpool Street,Stratford,2.50,2024-01-05,16:10,Greater Anglia,5
+Stratford,Canary Wharf,3.00,2024-01-05,17:00,Docklands Light Railway,8
+London Bridge,Euston,7.50,2024-01-06,18:20,Southern,25
+Paddington,Kings Cross,6.25,2024-01-06,19:30,Great Western Railway,30
+Euston,Waterloo,5.00,2024-01-07,08:00,South Western Railway,15
+Kings Cross,Victoria,6.75,2024-01-07,09:15,Greater Anglia,20
+Waterloo,London Bridge,5.25,2024-01-08,10:30,South Western Railway,12
+Victoria,Liverpool Street,4.75,2024-01-08,11:45,Greater Anglia,15
+Euston,Paddington,6.50,2024-01-09,12:00,Great Western Railway,22
+Stratford,Euston,3.50,2024-01-09,13:15,Docklands Light Railway,10
+Canary Wharf,Waterloo,4.00,2024-01-10,14:30,Docklands Light Railway,18
+Waterloo,Victoria,4.75,2024-01-10,15:45,South Western Railway,10
+
